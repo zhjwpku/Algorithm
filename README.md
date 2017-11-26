@@ -4,13 +4,21 @@ This is a book about data structures and algorithms, the primary goal of this bo
 
 The idea is highly inspired by the following projects:
 
-1. [https://github.com/liuxinyu95/AlgoXY](https://github.com/liuxinyu95/AlgoXY "Book of Elementary Algorithms and Data structures")
-2. [https://github.com/xtaci/algorithms](https://github.com/xtaci/algorithms "Algorithms &amp; Data structures in C++")
-3. [https://github.com/prakhar1989/Algorithms](https://github.com/prakhar1989/Algorithms "Data Structures and Algorithms in Python")
-4. [https://github.com/arnauddri/algorithms](https://github.com/arnauddri/algorithms "Algorithms &amp; Data Structures in Go")
+1. [Book of Elementary Algorithms and Data structures](https://github.com/liuxinyu95/AlgoXY)
+2. [Algorithms &amp; Data structures in C++](https://github.com/xtaci/algorithms)
+3. [Data Structures and Algorithms in Python](https://github.com/prakhar1989/Algorithms)
+4. [Algorithms &amp; Data Structures in Go](https://github.com/arnauddri/algorithms)
 5. [https://github.com/Workiva/go-datastructures](https://github.com/Workiva/go-datastructures)
+6. [Algorithms and data structures for golang](https://github.com/0xAX/go-algorithms)
 
+LICENSE
+--------
 
+Licensed [BY-NC-SA Creative Commons](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+Author
+--------
+
+[@zhjwpku](https://github.com/zhjwpku)
 
 
